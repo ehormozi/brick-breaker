@@ -1,0 +1,4 @@
+Afficher le menu
+Nouvelle partie a commencee
+Balle retourne a la raquette
+Balle est lancee
