@@ -1,2 +1,0 @@
-Afficher le menu
-Quitter le jeu
